@@ -1,0 +1,7 @@
+"Breakfast"
+"Second Breakfast"
+"Elevenses"
+"Luncheon"
+"Afternoon Tea"
+"Dinner"
+"Supper"
